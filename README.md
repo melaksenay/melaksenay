@@ -1,1 +1,1 @@
-I look forward to using GitHub in the future!
+Hello! I am a first year student at Washington University in St. Louis majoring in Computer Science and Economics. I look forward to applying computer science to explore the intersection between technology and economics.
