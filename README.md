@@ -1,1 +1,1 @@
-Hello! I am a second year student at Washington University in St. Louis majoring in Computer Science and Economics. I look forward to applying computer science to explore the intersection between technology and economics.
+Hello! I am a student at Washington University in St. Louis majoring in Computer Science and Economics. I look forward to applying computer science to explore the intersection between technology and economics.
